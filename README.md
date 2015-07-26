@@ -15,7 +15,9 @@ The licence choice is good to keep for an open-source web-application.
 It is an automation tool to help you develop, build and deploy your project. (Like an improved Makefile).
 The `GruntFile.js` is a generic one.
 To use it you must install grunt with npm :
-`npm install grunt --save-dev`
+```bash
+npm install grunt --save-dev
+```
 Then configure the assets in the GruntFile.
 Interesting assets :
 - grunt-contrib-watch
@@ -31,5 +33,7 @@ A list of assets is available at : http://gruntjs.com/plugins
 ## Clone this repo
 
 To clone this repo without having the whole git repo and folder arch, you can use :
-`git clone --depth=1 https://github.com/m-rousse/BlankProject.git NewProject
-rm -rf !$/.git`
+```bash
+git clone --depth=1 https://github.com/m-rousse/BlankProject.git NewProject
+rm -rf !$/.git
+```
