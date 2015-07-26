@@ -30,6 +30,11 @@ Interesting assets :
 
 A list of assets is available at : http://gruntjs.com/plugins
 
+## Bootstrap
+
+A css framework to design quickly web applications. The page load bootstrap and JQuery.
+The css, js and fonts files/folders a required to use this template.
+
 ## Clone this repo
 
 To clone this repo without having the whole git repo and folder arch, you can use :
