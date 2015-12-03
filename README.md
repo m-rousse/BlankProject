@@ -27,6 +27,7 @@ Interesting assets :
 - grunt-contrib-copy
 - grunt-line-remover
 - grunt-php
+- grunt-nodemon
 
 A list of assets is available at : http://gruntjs.com/plugins
 
